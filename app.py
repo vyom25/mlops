@@ -43,5 +43,6 @@ def prediction():
     else:
         return jsonify({"prediction": "Loan Approved"})
 
+
 if __name__  == "__main__":
     app.run(debug=True)
