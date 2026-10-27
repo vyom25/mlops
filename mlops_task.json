@@ -82,6 +82,5 @@
     "memory": "3072",
     "registeredAt": "2026-10-27T01:26:00.458Z",
     "registeredBy": "arn:aws:iam::154770582964:user/devops_user_7003462_273873",
-    "enableFaultInjection": false,
     "tags": []
 }
